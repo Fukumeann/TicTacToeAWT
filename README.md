@@ -48,8 +48,8 @@ By following these steps, you should be able to compile, run, and enjoy playing 
 ![2024-07-01 (2)](https://github.com/Fukumeann/TicTacToeAWT/assets/174181792/cbfa647f-8819-48b2-aa6c-4d195c1fa27e)
 
 ### Names:
-Angue, Joshua C.
-Caseserano, Arjhan Klein M.
-Dinglas, Allen G.
-Dizon, Patrick Jay P.
+Angue, Joshua C., 
+Caseserano, Arjhan Klein M., 
+Dinglas, Allen G., 
+Dizon, Patrick Jay P., 
 Endozo, Hershy B.
