@@ -39,3 +39,17 @@ To run the Tic-Tac-Toe game implemented in Java using AWT, follow these steps:
 - The scoreboard tracks wins for both X and O players until manually reset.
 
 By following these steps, you should be able to compile, run, and enjoy playing the Tic-Tac-Toe game implemented in Java with AWT.
+
+### Output:
+![2024-07-01](https://github.com/Fukumeann/TicTacToeAWT/assets/174181792/452b7562-9b3b-485a-b72e-caa96d1e8942)
+![2024-07-01 (1)](https://github.com/Fukumeann/TicTacToeAWT/assets/174181792/e38c8bce-1495-4817-ba41-1919a36ffb06)
+![2024-07-01 (2)](https://github.com/Fukumeann/TicTacToeAWT/assets/174181792/cbfa647f-8819-48b2-aa6c-4d195c1fa27e)
+![2024-07-01 (3)](https://github.com/Fukumeann/TicTacToeAWT/assets/174181792/34e7e083-ede1-4af6-bd82-e33632f4c902)
+![2024-07-01 (4)](https://github.com/Fukumeann/TicTacToeAWT/assets/174181792/083ad564-8d7d-4646-b1b3-ce195b711aae)
+
+### Names:
+Angue, Joshua C.
+Caseserano, Arjhan Klein M.
+Dinglas, Allen G.
+Dizon, Patrick Jay P.
+Endozo, Hershy B.
