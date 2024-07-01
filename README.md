@@ -1,56 +1,41 @@
-# TicTacToeAWT
+To run the Tic-Tac-Toe game implemented in Java using AWT, follow these steps:
 
-### Instructions for Running TicTacToeAWT Java Code
+### Prerequisites:
+- Ensure you have Java Development Kit (JDK) installed on your system.
 
-This guide will walk you through running the provided `TicTacToeAWT` Java code. The code implements a graphical Tic-Tac-Toe game using AWT (Abstract Window Toolkit).
+### Instructions:
 
-#### Prerequisites
-
-1. **Java Development Kit (JDK):**
-   Ensure you have the JDK installed on your system. You can download it from the [Oracle website](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) or use an open-source version like [OpenJDK](https://openjdk.java.net/).
-
-2. **IDE (Integrated Development Environment):**
-   It is recommended to use an IDE such as IntelliJ IDEA, Eclipse, or NetBeans. However, you can also use a simple text editor and compile/run the code from the command line.
-
-#### Steps to Run the Code
-
-1. **Create a New Project:**
-   - Open your IDE and create a new Java project.
-   - Name the project appropriately (e.g., "TicTacToeAWT").
-
-2. **Create a New Java Class:**
-   - Inside your project, create a new Java class file named `TicTacToeAWT`.
-
-3. **Copy and Paste the Code:**
-   - Copy the provided Java code and paste it into the `TicTacToeAWT.java` file.
-
-4. **Compile the Code:**
-   - If you are using an IDE, it will automatically compile the code when you save the file.
-   - If you are using the command line, navigate to the directory containing `TicTacToeAWT.java` and run the following command to compile the code:
-     ```sh
+1. **Compile the Code:**
+   - Save the provided code into a file named `TicTacToeAWT.java`.
+   - Open a terminal or command prompt.
+   - Navigate to the directory where `TicTacToeAWT.java` is saved.
+   - Compile the code using the following command:
+     ```
      javac TicTacToeAWT.java
      ```
 
-5. **Run the Code:**
-   - If you are using an IDE, right-click on the `TicTacToeAWT` class and select "Run" or use the run button in the IDE.
-   - If you are using the command line, navigate to the directory containing the compiled `.class` files and run the following command:
-     ```sh
-     java TicTacToeAWT
+2. **Run the Program:**
+   - After successful compilation, run the program using:
      ```
+     java Main
+     ```
+   - This command executes the `Main` class, which in turn initializes the `TicTacToeAWT` game.
 
-#### Playing the Game
+3. **Play the Game:**
+   - The game window titled "Tic-Tac-Toe" should appear.
+   - You can play the game by clicking on the game buttons to place X or O.
+   - Follow the on-screen instructions for game status (e.g., whose turn it is, who wins).
 
-- The game window will open, displaying a 3x3 grid for the Tic-Tac-Toe game.
-- The labels at the bottom of the window will show the scores for player X and player O.
-- The "Restart" button will reset the current game, allowing you to start a new game while retaining the scores.
-- The "Reset" button will reset both the game and the scores for both players.
+4. **Restart or Reset:**
+   - Use the "Restart" button to restart the game with the same scoreboard.
+   - Use the "Reset" button to reset the scoreboard to zero for both X and O scores.
 
-#### Notes
+5. **Closing the Game:**
+   - Close the game window to exit the program.
 
-- The game window is designed to be non-resizable and centers itself on the screen when launched.
-- The first player is chosen randomly at the start of the game.
-- The current player's turn is displayed at the top of the game window.
-- If a player wins, the winning combination is highlighted in green, and the score is updated.
-- If the game ends in a tie, the grid is highlighted in yellow.
+### Notes:
+- Ensure your Java environment (`javac` and `java` commands) is properly configured.
+- The game uses AWT (Abstract Window Toolkit) for the graphical interface.
+- The scoreboard tracks wins for both X and O players until manually reset.
 
-By following these instructions, you should be able to compile, run, and play the Tic-Tac-Toe game implemented in Java using AWT.
+By following these steps, you should be able to compile, run, and enjoy playing the Tic-Tac-Toe game implemented in Java with AWT.
